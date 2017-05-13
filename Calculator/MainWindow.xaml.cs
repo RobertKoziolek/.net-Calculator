@@ -223,7 +223,7 @@ namespace Calculator
                     {
                         Value2 = ReverseNumberString(Value2);
                     }
-                    else if (Value2 != null)
+                    else if (Value1 != null)
                     {
                         Value1 = ReverseNumberString(Value1);
                     }

@@ -72,3 +72,28 @@ C:\Users\Robert\Desktop\Calculator\Calculator\obj\Debug\MainWindow.baml
 C:\Users\Robert\Desktop\Calculator\Calculator\obj\Debug\Calculator.g.resources
 C:\Users\Robert\Desktop\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
 C:\Users\Robert\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\Calculator\Calculator\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\App.g.cs
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\MainWindow.baml
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Robert\Documents\Visual Studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
